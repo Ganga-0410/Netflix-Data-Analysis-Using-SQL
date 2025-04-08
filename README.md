@@ -8,7 +8,9 @@ This project performs an in-depth data analysis on a Netflix dataset using SQL. 
 
 # 📌 Dataset Source
 The dataset used in this project is a public Netflix Movies and TV Shows dataset, available on Kaggle.
+
 **Columns Include:**
+  
   show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
 # 🎯 Objectives
